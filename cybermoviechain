@@ -1,0 +1,29 @@
+{
+  "symbol": "CMCT",
+  "address": " 0x7aBc60B3290F68c85f495fD2e0c3Bd278837a313",
+  "overview":{
+        "en": "Cyber Movie Chain is a project base on  ERC-20 platform to develop  a comprehensive block chain technology solution consisting of its Cyber Movie Chain  Platform.Movie industry need a new economic model. Distribute, Watch, and enjoy films safely. By handling ledger transactions, Cyber Movie Chain guarantee reliability and cost effectiveness.
+Block chain distribution model protects against any piracy by providing unique credentials. ",
+        "zh": ""
+  },
+  "email": "info@cybermoviechain.io",
+  "website": "https://cybermoviechain.io/",
+  "whitepaper": "https://drive.google.com/file/d/1d7EwyowiUv0FHoJshtidvbfar-RVXxve/view",
+  "state": "NORMAL",
+  "published_on": "2018-01-01",
+  "initial_price":{
+        "ETH":"0.00000005 ETH",
+        "USD":"0.000011 USD",
+        "BTC":"1.7e-8 BTC"
+  },
+  "links": {
+    "blog": "https://medium.com/@cybermoviechain",
+    "twitter": "https://twitter.com/cybermoviechain",
+    "telegram": "https://t.me/CybermovieChainOfficial",
+    "github": "https://github.com/cybermoviechain/ico",
+    "facebook": "https://www.facebook.com/Cybermoviechain",
+    "reddit": "https://www.reddit.com/user/cybermoviechain/",
+    "slack": "https://your-awesome-project.slack.com",
+    "medium": "https://medium.com/@cybermoviechain"
+  }
+}
